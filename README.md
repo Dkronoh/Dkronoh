@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dkronoh
+- 👀 I’m interested in programming a  lot
+- 🌱 I’m currently learning to generate code in the C language program
+- 💞️ I’m looking to collaborate on many ways of computer languages
